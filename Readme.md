@@ -19,6 +19,10 @@
 
 <br>
 
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fnlnadialigia%2Fignite-fundamentos-nodejs%2Fmain%2FInsomnia.json%3Ftoken%3DAP4MEK7OZXJ37SI7NLICLWTAI6J7M)
+
+<br>
+
 # Índice
 
 - [Sobre](#-ℹ️-sobre)
