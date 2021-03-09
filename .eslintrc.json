@@ -12,6 +12,9 @@
     },
     "rules": {
         "eol-last": "off",
-        "semi": "off"
+        "semi": [
+            "error",
+            "always"
+        ]
     }
 }
