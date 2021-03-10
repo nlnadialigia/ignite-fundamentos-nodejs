@@ -6,9 +6,9 @@
 ---
 
 <p align="center">
-  <img alt="Last commit" src="https://img.shields.io/github/last-commit/nlnadialigia/dev.finances?color=91091e&style=flat-square"/>
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/nlnadialigia/ignite-fundamentos-nodejs?color=91091e"/>
 
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/nlnadialigia/dev.finances?color=91091e"/>
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/nlnadialigia/ignite-fundamentos-nodejs?color=91091e"/>
    
   <a href="./license.md">
   <img alt="License" src="https://img.shields.io/static/v1?label=licence&message=MIT&color=91091e"/>
